@@ -67,6 +67,11 @@ new commodity 1TB hard drives available for less than $60 on Amazon:
 
 http://www.amazon.com/Passport-Ultra-Portable-External-Drive/dp/B00E83X9P8/ref=sr_1_2?s=pc&ie=UTF8&qid=1438290524&sr=1-2&keywords=1+tb+hard+drive
 
+If a 1TB drive is not big enough, there are also 1.5TB drives available for
+only slightly more money:
+
+http://www.amazon.com/Seagate-1-5TB-Portable-External-STBX1500401/dp/B00R49FAZK/ref=sr_1_1?ie=UTF8&qid=1438290740&sr=8-1&keywords=1.5+tb+hard+drive
+
 I am happy to provide additional funds for such a drive, or even to purchase
 and have it shipped in original packaging directly to the office of your
 choice.
